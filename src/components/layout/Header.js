@@ -6,7 +6,7 @@ const Header = () => {
     return (
         <header className='header'>
             <a href='/'>
-                <Image src="/assets/Retro_Pluralsight_White.png" className='header-logo' />
+                <Image src="/assets/react_router2.png" className='header-logo' />
             </a>
 
             <div className='header-text'>
@@ -18,4 +18,3 @@ const Header = () => {
 };
 
 export default Header;
-
